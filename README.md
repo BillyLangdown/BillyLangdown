@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Billy! <br/> A Data & Tech Enthusiast </h1>
 
-<!--
-**BillyLangdown/BillyLangdown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🌱 Current Goals: </h2>
 
-Here are some ideas to get you started:
+My current goals revolve around advancing my proficiency in SQL and Python within a data-centric environment. As I pursue these objectives, I am also actively seeking opportunities to launch my career in the dynamic and innovative data and tech industry. I am excited to contribute my skills and passion to make a meaningful impact in this field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 SQL Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+
+<h2>💻 Python Projects </h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
