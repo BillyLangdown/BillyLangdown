@@ -6,7 +6,7 @@ My current goals revolve around advancing my proficiency in SQL and Python withi
 
 <h2>👨‍💻 SQL Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>[Foof Marketing Data Exploration with SQL](https://github.com/BillyLangdown/SQL/blob/main/SQL_FoodMarketingData)</b>
 
 <h2>💻 Python Projects </h2>
 
