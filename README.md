@@ -10,6 +10,8 @@ My current goals revolve around advancing my proficiency in SQL and Python withi
 
 <h2>💻 Python Projects </h2>
 
-- [Excel Spreadsheet Manipulation with Python & openpyxl](https://github.com/BillyLangdown/Python/commit/ddadcf8d9f047ca698a187d1c6445163390c8d17)
+- [Excel Spreadsheet Manipulation with openpyxl](https://github.com/BillyLangdown/Python/commit/ddadcf8d9f047ca698a187d1c6445163390c8d17)
+- [Machine Learning Exploration ](https://github.com/BillyLangdown/Python/blob/main/MachineLearningExporation.ipynb)
+- [Investigating Film Data Correlation](https://github.com/BillyLangdown/Python/blob/main/FilmDataCorreation.ipynb)
 
 
