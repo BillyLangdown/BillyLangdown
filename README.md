@@ -1,4 +1,4 @@
-<h1>Hi, I'm Billy! <br/> A coding Enthusiast </h1>
+<h1>Hi, I'm Billy! <br/> A Coding & Tech Enthusiast </h1>
 
 <h2>🌱 Current Goals: </h2>
 
