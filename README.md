@@ -4,9 +4,14 @@
 
 My current goals revolve around advancing my proficiency in full-stack development using a JavaScript base, however, I do have an interest in SQL and Python too. As I pursue these objectives, I am also actively seeking opportunities to launch my career in the dynamic and innovative data and tech industry. I am excited to contribute my skills and passion to make a meaningful impact in this field.
 
+
+<h2> Backend JavaScript:</h2>
+
+- <b>[News API built with Node.js, Express.js & incorporating TDD with Jest & SuperTest](https://github.com/BillyLangdown/news-api)</b>
+
 <h2>👨‍💻 SQL Projects:</h2>
 
-- <b>[Foof Marketing Data Exploration with SQL](https://github.com/BillyLangdown/SQL/blob/main/SQL_FoodMarketingData)</b>
+- <b>[Food Marketing Data Exploration with SQL](https://github.com/BillyLangdown/SQL/blob/main/SQL_FoodMarketingData)</b>
 
 <h2>💻 Python Projects </h2>
 
