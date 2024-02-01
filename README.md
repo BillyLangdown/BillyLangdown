@@ -5,7 +5,7 @@
 My current goals revolve around advancing my proficiency in full-stack development using a JavaScript base, however, I do have an interest in Python too. As I pursue these objectives, I am also actively seeking opportunities to launch my career in tech. I am excited to contribute my skills and passion to make a meaningful impact in this field.
 
 
-<h2>👈Backend JavaScript:</h2>
+<h2>👈 Backend JavaScript:</h2>
 
 - <b>[News API built with Node.js, Express.js & incorporating TDD with Jest & SuperTest](https://github.com/BillyLangdown/news-api)</b>
 
