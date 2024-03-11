@@ -4,7 +4,7 @@
 
 My current goals revolve around advancing my proficiency in full-stack development using a JavaScript base, with a keen interest in Python as well. As I pursue these objectives, I am actively seeking opportunities to launch my career in tech. Excited to contribute my skills and passion to make a meaningful impact in this field.
 
-## CultureConnect - Team App Development: 
+## 🔗  CultureConnect - Team App Development: 
 
 - 📱 [Mobile App built with TypeScript, React Native & Superbase](https://github.com/JoravarSinghPunia/CultureConnect-Application)
 
