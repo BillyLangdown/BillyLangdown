@@ -6,7 +6,7 @@ My current goals revolve around advancing my proficiency in full-stack developme
 
 ## 💪🏼 Balance - React Native & AWS App Development
 
-- 📱 [*In Progress* Food Delivery Mobile App built with React Native and AWS Amplify] (https://github.com/BillyLangdown/Balance)
+- 📱 [*In Progress* Food Delivery Mobile App built with React Native and AWS Amplify](https://github.com/BillyLangdown/Balance)
  
 ## 🔗  CultureConnect - Team App Development: 
 
