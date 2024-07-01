@@ -2,7 +2,7 @@
 
 ## 🌱 Current Goals:
 
-My current goals revolve around advancing my proficiency in full-stack development using a JavaScript base, with a keen interest in Python as well. As I pursue these objectives, I am actively seeking opportunities to launch my career in tech. Excited to contribute my skills and passion to make a meaningful impact in this field.
+My current goals revolve around advancing my proficiency in development using a JavaScript base. At the moment I am finding mobile development interesting, using React native. As I pursue these objectives, I am actively seeking opportunities to launch my career in tech. Excited to contribute my skills and passion to make a meaningful impact in this field.
 
 ## 💪🏼 Balance - Solo App Development 
 
