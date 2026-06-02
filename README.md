@@ -1,19 +1,31 @@
-# Hi, I'm Billy! 👋 A Coding & Tech Enthusiast 
+# Hi, I am William
 
-## 🌱 Current Goals:
+I’m a product-focused developer and founder working across UX, conversion, and web-based systems.
 
-My current goals revolve around advancing my proficiency in development using a JavaScript base. At the moment I am finding mobile development interesting, using React native. As I pursue these objectives, I am actively seeking opportunities to launch my career in tech. Excited to contribute my skills and passion to make a meaningful impact in this field.
+I care about how people actually use digital products, where they slow down, where they leave, and how changes in structure affect what they do next.
 
-## 💪🏼 Balance - Solo App Development 
+I work mainly with JavaScript, React, and Next.js, building web experiences that are fast, clear, and easy to navigate.
 
-- 📱 [Food Delivery Mobile App built with React Native and AWS Amplify](https://github.com/BillyLangdown/Balance)
- 
-## 🔗  CultureConnect - Team App Development: 
 
-- 📱 [Mobile App built with TypeScript, React Native & Superbase](https://github.com/JoravarSinghPunia/CultureConnect-Application)
+## Current Focus
 
-## 🗞️  News WebApp  - Full Stack JavaScript 🥞 :
+I’m building **Slick**, a custom booking and workflow system for small businesses that need something more flexible than standard booking tools.
 
-- 👉 [Front End built with JavaScript, React, and Bootstrap](https://github.com/BillyLangdown/fe-nc-news)
-- 👈 [News API built with JavasScript, Node.js and Express. js](https://github.com/BillyLangdown/news-api)
+The aim is to keep it simple to set up and easy to adapt, without the extra parts that usually come with larger platforms.
+
+Alongside this, I spend time on product and interface work:
+
+- how people move through interfaces  
+- improving completion rates on key actions  
+- structuring web-based products  
+- performance and front-end development  
+
+
+## Areas of Interest
+
+- UX and how people read and use websites  
+- conversion rate improvement  
+- building SaaS and web tools  
+- React and Next.js architecture  
+- simplifying user flows  
 
